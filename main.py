@@ -17,7 +17,7 @@ print('Tunnel Conected!')
 BOT_TOKEN = '6524905925:AAEXKBhz3O8fA8GoxcaS0f66tXTnmxHqFh8'
 API_ID = '18641760'
 API_HASH = 'b7b026ce9d1d36400c02dc21d8df53a3'
-HOST_ = 'https://fiercely-lovely-lily-ship-dev.wayscript.cloud/'
+HOST_ = 'hhttp://freechunkdl.s3.ydns.eu/chunks/xITbgw85qdWn'
 HOST_ = tunnel.public_url + '/'
 
 
